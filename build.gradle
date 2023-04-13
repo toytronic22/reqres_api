@@ -9,10 +9,10 @@ repositories {
 }
 
 def restAssuredVersion = "5.3.0",
-    allureVersion = "2.21.0",
-    jacksonDatabindVersion = "2.15.0",
-    junitVersion = "5.9.2",
-    slf4jVersion = "2.0.7"
+    allureVersion = "2.20.1",
+    jacksonDatabindVersion = "2.14.1",
+    junitVersion = "5.9.1",
+    slf4jVersion = "2.0.6"
 
 allure
         {
